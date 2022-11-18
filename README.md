@@ -1,2 +1,2 @@
 #  Jaxx Cosmeticx - Website
- An E - Commerce website based on HTML, CSS, JQUERY, JAVASCRIPT, BOOTSTRAP, PHP.
+Design a responsive E-Commerce cosmetic website known as "JAXX COSMETICX" with the help of JavaScript, HTML, CSS, Bootstrap, PHP, jQuery.
